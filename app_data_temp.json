@@ -1,0 +1,1046 @@
+{
+  "kpi": {
+    "totalCountries": 138,
+    "happiestCountry": "Finland",
+    "happiestScore": 7.699,
+    "indonesiaScore": 5.695,
+    "indonesiaRank": 79
+  },
+  "top15": [
+    {
+      "Country name": "Finland",
+      "Life Ladder": 7.699
+    },
+    {
+      "Country name": "Iceland",
+      "Life Ladder": 7.562
+    },
+    {
+      "Country name": "Denmark",
+      "Life Ladder": 7.504
+    },
+    {
+      "Country name": "Costa Rica",
+      "Life Ladder": 7.384
+    },
+    {
+      "Country name": "Netherlands",
+      "Life Ladder": 7.255
+    },
+    {
+      "Country name": "Norway",
+      "Life Ladder": 7.249
+    },
+    {
+      "Country name": "Sweden",
+      "Life Ladder": 7.161
+    },
+    {
+      "Country name": "Kuwait",
+      "Life Ladder": 7.13
+    },
+    {
+      "Country name": "Australia",
+      "Life Ladder": 7.025
+    },
+    {
+      "Country name": "Luxembourg",
+      "Life Ladder": 7.016
+    },
+    {
+      "Country name": "Mexico",
+      "Life Ladder": 7.006
+    },
+    {
+      "Country name": "New Zealand",
+      "Life Ladder": 6.976
+    },
+    {
+      "Country name": "Switzerland",
+      "Life Ladder": 6.969
+    },
+    {
+      "Country name": "Saudi Arabia",
+      "Life Ladder": 6.953
+    },
+    {
+      "Country name": "Belgium",
+      "Life Ladder": 6.944
+    }
+  ],
+  "trend": {
+    "Indonesia": [
+      {
+        "year": 2006,
+        "score": 4.947
+      },
+      {
+        "year": 2007,
+        "score": 5.101
+      },
+      {
+        "year": 2008,
+        "score": 4.815
+      },
+      {
+        "year": 2009,
+        "score": 5.472
+      },
+      {
+        "year": 2010,
+        "score": 5.457
+      },
+      {
+        "year": 2011,
+        "score": 5.173
+      },
+      {
+        "year": 2012,
+        "score": 5.368
+      },
+      {
+        "year": 2013,
+        "score": 5.292
+      },
+      {
+        "year": 2014,
+        "score": 5.597
+      },
+      {
+        "year": 2015,
+        "score": 5.043
+      },
+      {
+        "year": 2016,
+        "score": 5.136
+      },
+      {
+        "year": 2017,
+        "score": 5.098
+      },
+      {
+        "year": 2018,
+        "score": 5.34
+      },
+      {
+        "year": 2019,
+        "score": 5.347
+      },
+      {
+        "year": 2020,
+        "score": 4.828
+      },
+      {
+        "year": 2021,
+        "score": 5.433
+      },
+      {
+        "year": 2022,
+        "score": 5.585
+      },
+      {
+        "year": 2023,
+        "score": 5.695
+      }
+    ],
+    "Finland": [
+      {
+        "year": 2006,
+        "score": 7.672
+      },
+      {
+        "year": 2008,
+        "score": 7.671
+      },
+      {
+        "year": 2010,
+        "score": 7.393
+      },
+      {
+        "year": 2011,
+        "score": 7.354
+      },
+      {
+        "year": 2012,
+        "score": 7.42
+      },
+      {
+        "year": 2013,
+        "score": 7.445
+      },
+      {
+        "year": 2014,
+        "score": 7.385
+      },
+      {
+        "year": 2015,
+        "score": 7.448
+      },
+      {
+        "year": 2016,
+        "score": 7.66
+      },
+      {
+        "year": 2017,
+        "score": 7.788
+      },
+      {
+        "year": 2018,
+        "score": 7.858
+      },
+      {
+        "year": 2019,
+        "score": 7.78
+      },
+      {
+        "year": 2020,
+        "score": 7.889
+      },
+      {
+        "year": 2021,
+        "score": 7.794
+      },
+      {
+        "year": 2022,
+        "score": 7.729
+      },
+      {
+        "year": 2023,
+        "score": 7.699
+      }
+    ],
+    "Singapore": [
+      {
+        "year": 2006,
+        "score": 6.463
+      },
+      {
+        "year": 2007,
+        "score": 6.834
+      },
+      {
+        "year": 2008,
+        "score": 6.642
+      },
+      {
+        "year": 2009,
+        "score": 6.145
+      },
+      {
+        "year": 2010,
+        "score": 6.531
+      },
+      {
+        "year": 2011,
+        "score": 6.561
+      },
+      {
+        "year": 2013,
+        "score": 6.533
+      },
+      {
+        "year": 2014,
+        "score": 7.062
+      },
+      {
+        "year": 2015,
+        "score": 6.62
+      },
+      {
+        "year": 2016,
+        "score": 6.033
+      },
+      {
+        "year": 2017,
+        "score": 6.378
+      },
+      {
+        "year": 2018,
+        "score": 6.375
+      },
+      {
+        "year": 2019,
+        "score": 6.378
+      },
+      {
+        "year": 2021,
+        "score": 6.587
+      },
+      {
+        "year": 2022,
+        "score": 6.333
+      },
+      {
+        "year": 2023,
+        "score": 6.654
+      }
+    ],
+    "World Average": [
+      {
+        "year": 2005,
+        "score": 6.446
+      },
+      {
+        "year": 2006,
+        "score": 5.197
+      },
+      {
+        "year": 2007,
+        "score": 5.418
+      },
+      {
+        "year": 2008,
+        "score": 5.419
+      },
+      {
+        "year": 2009,
+        "score": 5.458
+      },
+      {
+        "year": 2010,
+        "score": 5.497
+      },
+      {
+        "year": 2011,
+        "score": 5.424
+      },
+      {
+        "year": 2012,
+        "score": 5.444
+      },
+      {
+        "year": 2013,
+        "score": 5.393
+      },
+      {
+        "year": 2014,
+        "score": 5.386
+      },
+      {
+        "year": 2015,
+        "score": 5.401
+      },
+      {
+        "year": 2016,
+        "score": 5.396
+      },
+      {
+        "year": 2017,
+        "score": 5.46
+      },
+      {
+        "year": 2018,
+        "score": 5.499
+      },
+      {
+        "year": 2019,
+        "score": 5.571
+      },
+      {
+        "year": 2020,
+        "score": 5.728
+      },
+      {
+        "year": 2021,
+        "score": 5.636
+      },
+      {
+        "year": 2022,
+        "score": 5.499
+      },
+      {
+        "year": 2023,
+        "score": 5.621
+      }
+    ]
+  },
+  "scatter": [
+    {
+      "country": "Albania",
+      "gdp": 9.689,
+      "score": 5.445
+    },
+    {
+      "country": "Argentina",
+      "gdp": 9.994,
+      "score": 6.393
+    },
+    {
+      "country": "Armenia",
+      "gdp": 9.73,
+      "score": 5.679
+    },
+    {
+      "country": "Australia",
+      "gdp": 10.846,
+      "score": 7.025
+    },
+    {
+      "country": "Austria",
+      "gdp": 10.93,
+      "score": 6.636
+    },
+    {
+      "country": "Azerbaijan",
+      "gdp": 9.637,
+      "score": 5.214
+    },
+    {
+      "country": "Bahrain",
+      "gdp": 10.877,
+      "score": 5.959
+    },
+    {
+      "country": "Bangladesh",
+      "gdp": 8.783,
+      "score": 4.114
+    },
+    {
+      "country": "Belgium",
+      "gdp": 10.883,
+      "score": 6.944
+    },
+    {
+      "country": "Benin",
+      "gdp": 8.174,
+      "score": 4.42
+    },
+    {
+      "country": "Bolivia",
+      "gdp": 9.025,
+      "score": 5.86
+    },
+    {
+      "country": "Bosnia and Herzegovina",
+      "gdp": 9.759,
+      "score": 6.009
+    },
+    {
+      "country": "Botswana",
+      "gdp": 9.673,
+      "score": 3.332
+    },
+    {
+      "country": "Brazil",
+      "gdp": 9.635,
+      "score": 6.553
+    },
+    {
+      "country": "Bulgaria",
+      "gdp": 10.273,
+      "score": 5.59
+    },
+    {
+      "country": "Burkina Faso",
+      "gdp": 7.693,
+      "score": 4.462
+    },
+    {
+      "country": "Cambodia",
+      "gdp": 8.462,
+      "score": 4.221
+    },
+    {
+      "country": "Cameroon",
+      "gdp": 8.238,
+      "score": 4.946
+    },
+    {
+      "country": "Canada",
+      "gdp": 10.794,
+      "score": 6.841
+    },
+    {
+      "country": "Chad",
+      "gdp": 7.254,
+      "score": 4.544
+    },
+    {
+      "country": "Chile",
+      "gdp": 10.155,
+      "score": 6.23
+    },
+    {
+      "country": "China",
+      "gdp": 9.861,
+      "score": 6.145
+    },
+    {
+      "country": "Colombia",
+      "gdp": 9.667,
+      "score": 5.904
+    },
+    {
+      "country": "Comoros",
+      "gdp": 8.095,
+      "score": 3.588
+    },
+    {
+      "country": "Congo (Brazzaville)",
+      "gdp": 8.086,
+      "score": 4.954
+    },
+    {
+      "country": "Congo (Kinshasa)",
+      "gdp": 7.076,
+      "score": 3.383
+    },
+    {
+      "country": "Costa Rica",
+      "gdp": 10.021,
+      "score": 7.384
+    },
+    {
+      "country": "Croatia",
+      "gdp": 10.462,
+      "score": 5.958
+    },
+    {
+      "country": "Czechia",
+      "gdp": 10.639,
+      "score": 6.827
+    },
+    {
+      "country": "Denmark",
+      "gdp": 10.996,
+      "score": 7.504
+    },
+    {
+      "country": "Dominican Republic",
+      "gdp": 9.9,
+      "score": 5.921
+    },
+    {
+      "country": "Ecuador",
+      "gdp": 9.307,
+      "score": 5.852
+    },
+    {
+      "country": "Egypt",
+      "gdp": 9.48,
+      "score": 3.881
+    },
+    {
+      "country": "El Salvador",
+      "gdp": 9.167,
+      "score": 6.482
+    },
+    {
+      "country": "Estonia",
+      "gdp": 10.517,
+      "score": 6.43
+    },
+    {
+      "country": "Ethiopia",
+      "gdp": 7.809,
+      "score": 4.093
+    },
+    {
+      "country": "Finland",
+      "gdp": 10.808,
+      "score": 7.699
+    },
+    {
+      "country": "France",
+      "gdp": 10.742,
+      "score": 6.557
+    },
+    {
+      "country": "Gabon",
+      "gdp": 9.554,
+      "score": 5.104
+    },
+    {
+      "country": "Gambia",
+      "gdp": 7.686,
+      "score": 4.691
+    },
+    {
+      "country": "Georgia",
+      "gdp": 9.785,
+      "score": 5.351
+    },
+    {
+      "country": "Germany",
+      "gdp": 10.878,
+      "score": 6.792
+    },
+    {
+      "country": "Ghana",
+      "gdp": 8.61,
+      "score": 4.298
+    },
+    {
+      "country": "Greece",
+      "gdp": 10.387,
+      "score": 5.796
+    },
+    {
+      "country": "Guatemala",
+      "gdp": 9.14,
+      "score": 6.421
+    },
+    {
+      "country": "Guinea",
+      "gdp": 7.932,
+      "score": 4.827
+    },
+    {
+      "country": "Honduras",
+      "gdp": 8.67,
+      "score": 5.861
+    },
+    {
+      "country": "Hungary",
+      "gdp": 10.473,
+      "score": 5.965
+    },
+    {
+      "country": "Iceland",
+      "gdp": 10.934,
+      "score": 7.562
+    },
+    {
+      "country": "India",
+      "gdp": 8.919,
+      "score": 4.676
+    },
+    {
+      "country": "Indonesia",
+      "gdp": 9.466,
+      "score": 5.695
+    },
+    {
+      "country": "Iran",
+      "gdp": 9.651,
+      "score": 5.004
+    },
+    {
+      "country": "Iraq",
+      "gdp": 9.093,
+      "score": 5.475
+    },
+    {
+      "country": "Ireland",
+      "gdp": 11.676,
+      "score": 6.817
+    },
+    {
+      "country": "Israel",
+      "gdp": 10.707,
+      "score": 6.783
+    },
+    {
+      "country": "Italy",
+      "gdp": 10.703,
+      "score": 6.245
+    },
+    {
+      "country": "Ivory Coast",
+      "gdp": 8.656,
+      "score": 5.337
+    },
+    {
+      "country": "Japan",
+      "gdp": 10.654,
+      "score": 5.91
+    },
+    {
+      "country": "Jordan",
+      "gdp": 9.151,
+      "score": 4.292
+    },
+    {
+      "country": "Kazakhstan",
+      "gdp": 10.172,
+      "score": 6.299
+    },
+    {
+      "country": "Kenya",
+      "gdp": 8.523,
+      "score": 4.496
+    },
+    {
+      "country": "Kosovo",
+      "gdp": 9.48,
+      "score": 6.878
+    },
+    {
+      "country": "Kuwait",
+      "gdp": 10.812,
+      "score": 7.13
+    },
+    {
+      "country": "Kyrgyzstan",
+      "gdp": 8.573,
+      "score": 5.91
+    },
+    {
+      "country": "Laos",
+      "gdp": 9.005,
+      "score": 5.486
+    },
+    {
+      "country": "Latvia",
+      "gdp": 10.408,
+      "score": 6.296
+    },
+    {
+      "country": "Lebanon",
+      "gdp": 9.471,
+      "score": 3.588
+    },
+    {
+      "country": "Liberia",
+      "gdp": 7.309,
+      "score": 4.494
+    },
+    {
+      "country": "Lithuania",
+      "gdp": 10.575,
+      "score": 6.553
+    },
+    {
+      "country": "Luxembourg",
+      "gdp": 11.649,
+      "score": 7.016
+    },
+    {
+      "country": "Madagascar",
+      "gdp": 7.333,
+      "score": 4.433
+    },
+    {
+      "country": "Malawi",
+      "gdp": 7.279,
+      "score": 3.272
+    },
+    {
+      "country": "Malaysia",
+      "gdp": 10.283,
+      "score": 5.868
+    },
+    {
+      "country": "Mali",
+      "gdp": 7.673,
+      "score": 4.37
+    },
+    {
+      "country": "Mauritania",
+      "gdp": 8.62,
+      "score": 4.292
+    },
+    {
+      "country": "Mauritius",
+      "gdp": 10.083,
+      "score": 5.759
+    },
+    {
+      "country": "Mexico",
+      "gdp": 9.9,
+      "score": 7.006
+    },
+    {
+      "country": "Moldova",
+      "gdp": 9.492,
+      "score": 5.801
+    },
+    {
+      "country": "Mongolia",
+      "gdp": 9.433,
+      "score": 5.58
+    },
+    {
+      "country": "Montenegro",
+      "gdp": 10.041,
+      "score": 5.813
+    },
+    {
+      "country": "Morocco",
+      "gdp": 9.009,
+      "score": 4.487
+    },
+    {
+      "country": "Mozambique",
+      "gdp": 7.147,
+      "score": 5.704
+    },
+    {
+      "country": "Myanmar",
+      "gdp": 8.347,
+      "score": 4.391
+    },
+    {
+      "country": "Namibia",
+      "gdp": 9.167,
+      "score": 5.055
+    },
+    {
+      "country": "Nepal",
+      "gdp": 8.318,
+      "score": 5.389
+    },
+    {
+      "country": "Netherlands",
+      "gdp": 10.977,
+      "score": 7.255
+    },
+    {
+      "country": "New Zealand",
+      "gdp": 10.72,
+      "score": 6.976
+    },
+    {
+      "country": "Nicaragua",
+      "gdp": 8.685,
+      "score": 6.362
+    },
+    {
+      "country": "Niger",
+      "gdp": 7.181,
+      "score": 4.609
+    },
+    {
+      "country": "Nigeria",
+      "gdp": 8.514,
+      "score": 4.869
+    },
+    {
+      "country": "North Macedonia",
+      "gdp": 9.776,
+      "score": 5.403
+    },
+    {
+      "country": "Norway",
+      "gdp": 11.125,
+      "score": 7.249
+    },
+    {
+      "country": "Pakistan",
+      "gdp": 8.588,
+      "score": 4.549
+    },
+    {
+      "country": "Panama",
+      "gdp": 10.455,
+      "score": 6.543
+    },
+    {
+      "country": "Paraguay",
+      "gdp": 9.549,
+      "score": 6.214
+    },
+    {
+      "country": "Peru",
+      "gdp": 9.459,
+      "score": 5.936
+    },
+    {
+      "country": "Philippines",
+      "gdp": 9.102,
+      "score": 6.184
+    },
+    {
+      "country": "Poland",
+      "gdp": 10.527,
+      "score": 6.685
+    },
+    {
+      "country": "Portugal",
+      "gdp": 10.504,
+      "score": 5.954
+    },
+    {
+      "country": "Romania",
+      "gdp": 10.431,
+      "score": 6.489
+    },
+    {
+      "country": "Russia",
+      "gdp": 10.209,
+      "score": 5.865
+    },
+    {
+      "country": "Saudi Arabia",
+      "gdp": 10.829,
+      "score": 6.953
+    },
+    {
+      "country": "Senegal",
+      "gdp": 8.2,
+      "score": 5.093
+    },
+    {
+      "country": "Serbia",
+      "gdp": 9.961,
+      "score": 6.441
+    },
+    {
+      "country": "Sierra Leone",
+      "gdp": 7.412,
+      "score": 3.467
+    },
+    {
+      "country": "Slovakia",
+      "gdp": 10.425,
+      "score": 6.261
+    },
+    {
+      "country": "Slovenia",
+      "gdp": 10.664,
+      "score": 6.746
+    },
+    {
+      "country": "South Africa",
+      "gdp": 9.503,
+      "score": 5.076
+    },
+    {
+      "country": "South Korea",
+      "gdp": 10.742,
+      "score": 6.112
+    },
+    {
+      "country": "Spain",
+      "gdp": 10.609,
+      "score": 6.456
+    },
+    {
+      "country": "Sri Lanka",
+      "gdp": 9.364,
+      "score": 3.602
+    },
+    {
+      "country": "Sweden",
+      "gdp": 10.902,
+      "score": 7.161
+    },
+    {
+      "country": "Switzerland",
+      "gdp": 11.169,
+      "score": 6.969
+    },
+    {
+      "country": "Tajikistan",
+      "gdp": 8.371,
+      "score": 5.379
+    },
+    {
+      "country": "Tanzania",
+      "gdp": 7.893,
+      "score": 4.042
+    },
+    {
+      "country": "Thailand",
+      "gdp": 9.807,
+      "score": 6.282
+    },
+    {
+      "country": "Togo",
+      "gdp": 7.725,
+      "score": 4.365
+    },
+    {
+      "country": "Tunisia",
+      "gdp": 9.282,
+      "score": 4.505
+    },
+    {
+      "country": "T\u00fcrkiye",
+      "gdp": 10.429,
+      "score": 5.463
+    },
+    {
+      "country": "Uganda",
+      "gdp": 7.759,
+      "score": 4.467
+    },
+    {
+      "country": "Ukraine",
+      "gdp": 9.423,
+      "score": 4.672
+    },
+    {
+      "country": "United Arab Emirates",
+      "gdp": 11.236,
+      "score": 6.728
+    },
+    {
+      "country": "United Kingdom",
+      "gdp": 10.759,
+      "score": 6.658
+    },
+    {
+      "country": "United States",
+      "gdp": 11.089,
+      "score": 6.521
+    },
+    {
+      "country": "Uruguay",
+      "gdp": 10.122,
+      "score": 6.662
+    },
+    {
+      "country": "Uzbekistan",
+      "gdp": 9.026,
+      "score": 6.385
+    },
+    {
+      "country": "Vietnam",
+      "gdp": 9.392,
+      "score": 6.325
+    },
+    {
+      "country": "Zambia",
+      "gdp": 8.115,
+      "score": 3.686
+    },
+    {
+      "country": "Zimbabwe",
+      "gdp": 7.679,
+      "score": 3.572
+    }
+  ],
+  "regionAvg": [
+    {
+      "Region": "North America & ANZ",
+      "avgScore": 6.841
+    },
+    {
+      "Region": "Western Europe",
+      "avgScore": 6.566
+    },
+    {
+      "Region": "Latin America & Caribbean",
+      "avgScore": 6.297
+    },
+    {
+      "Region": "Central & Eastern Europe",
+      "avgScore": 6.187
+    },
+    {
+      "Region": "East Asia",
+      "avgScore": 6.08
+    },
+    {
+      "Region": "CIS",
+      "avgScore": 5.76
+    },
+    {
+      "Region": "Southeast Asia",
+      "avgScore": 5.678
+    },
+    {
+      "Region": "Middle East & North Africa",
+      "avgScore": 5.288
+    },
+    {
+      "Region": "Sub-Saharan Africa",
+      "avgScore": 4.458
+    },
+    {
+      "Region": "South Asia",
+      "avgScore": 3.963
+    }
+  ]
+}
