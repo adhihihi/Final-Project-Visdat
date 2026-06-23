@@ -2,7 +2,7 @@
 
 > Dashboard interaktif yang memvisualisasikan skor kebahagiaan global (Life Ladder) dari 138 negara (2005–2023) menggunakan data nyata dari World Happiness Report (Gallup World Poll).
 
-Demo: https://[nama-kelompok].vercel.app
+Demo: https://visdatgokil.vercel.app/
 
 ## Isi Dashboard
 - Chart 1: Bar Chart — Top 15 Negara Paling Bahagia (2023)
@@ -33,7 +33,7 @@ npm start
 - Vercel (deployment)
 
 ## Anggota
-- [Nama Anggota 1] ([NIM 1])
-- [Nama Anggota 2] ([NIM 2])
-- [Nama Anggota 3] ([NIM 3])
-- [Nama Anggota 4] ([NIM 4])
+- [Adhi Suryo Nugroho] ([1301213559])
+- [Evan Rakha Yuditira] ([1301223447])
+- [Henry Abimanyu Dewandani] ([1301220283])
+- [Ignatius Jonathan Pratomohadi] ([1301213019])
